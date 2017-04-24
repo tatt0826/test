@@ -1,3 +1,3 @@
 hoge
 aaaaa
-new line by local
+new line by remote
